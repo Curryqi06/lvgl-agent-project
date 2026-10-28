@@ -1,0 +1,1 @@
+cp ./build/bin/main ~/t40/sdk/image/system/bin/lvgl
